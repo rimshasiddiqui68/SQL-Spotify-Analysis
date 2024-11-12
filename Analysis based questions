@@ -1,0 +1,94 @@
+**`General Song Information`:**
+
+1. What are the top 5 most streamed songs in 2023?
+
+2. How many unique artists contributed to the dataset?
+
+3. What is the distribution of songs across different release years?
+
+4. Who are the top 10 artists based on popularity, and what are their tracks' average danceability and energy?
+
+5.Number of songs released by each artist in 2023:
+
+
+** `Spotify Metrics`:**
+
+1. Which song is present in the highest number of Spotify playlists?`   
+
+2. What is the average BPM (Beats Per Minute) of songs on Spotify?
+
+3. What is the average bpm of the top 15 most popular songs?
+
+4. What is the average danceability of the top 15 most popular songs?
+
+
+** `Apple Music Metrics`:**
+
+1. How many songs made it to both Apple Music charts and Spotify charts?
+
+2. List down the name of those song which appreared in both charts
+
+3. Which song is present in the highest number of apple playlists?`
+
+4. Average energy level of songs on Apple Music playlists:
+
+
+ **`Deezer Metrics`:**
+
+1. Are there any trends in the presence of songs on Deezer charts based on the release month?
+
+2. How many songs are common between Deezer and Spotify playlists?
+
+3. Which song is present in the highest number of deezer playlists?`
+
+4. Top 15 songs on Deezer based on danceability and energy
+
+
+** `Shazam Metrics`:**
+
+1. What is the distribution of speechiness percentages for songs on Shazam charts?
+
+2. Relationship between song energy and Shazam rank:
+
+
+** `Audio Features`:**
+
+1. Is there a noticeable difference in danceability percentages between songs in major and minor modes?
+
+2. Are there any trends in the energy levels of songs over the years?
+
+3. What are the most common song keys for the entire dataset?
+
+4.How does the distribution of acousticness percentages vary across different keys?
+
+5. Mode (major or minor) in high-danceability songs:
+
+
+**`Artist Impact`:**
+
+1. What is the average number of artists contributing to a song that makes it to the charts?
+
+2. Do songs with a higher number of artists tend to have higher or lower danceability percentages?
+
+** `Temporal Trends`:**
+
+1. How has the distribution of song valence percentages changed over the months in 2023?
+
+2. Are there any noticeable trends in the key of songs over the years?
+
+**`Cross-Platform Presence`:**
+
+1. Songs consistently ranking high across all platforms:
+
+2. Identify songs with the highest combined playlist presence across Spotify, Apple Music, and Deezer:
+
+
+**`miscellaneous`:**
+
+1. What is the distribution of key and mode combinations across the dataset?
+
+2. Compare the most popular song keys with song keys most represented in the top 50 tracks of 2023.
+
+3. Are there any patterns in the release days of songs that make it to the charts?
+
+4.List down the key with the popularity rankings for each song key.
