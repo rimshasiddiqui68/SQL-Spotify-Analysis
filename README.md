@@ -15,6 +15,7 @@ With these features, users can explore music trends, compare platforms, see how 
 `Track Popularity Dynamics:` Identify patterns in song characteristics, like tempo, energy, and danceability, and their influence on popularity.
 
 **Platform Comparison**
+
 `Playlist Inclusion Analysis:` Compare the number of playlists a song is included in across Spotify, Apple Music, and Deezer to understand platform-specific user engagement.
 
 `Cross-Platform Popularity:` Evaluate the most popular songs or artists on each platform to identify music that appeals to audiences across services.
