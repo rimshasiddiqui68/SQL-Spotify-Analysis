@@ -8,8 +8,9 @@
 This dataset covers everything from song details and popularity scores to availability on platforms like Spotify, Apple Music, Deezer, and Shazam.
 With these features, users can explore music trends, compare platforms, see how artists are performing, track changes over time, and examine how songs spread across different streaming services.
 
-#The Song Insight Toolkit"
-# Music Analysis
+# The Song Insight Toolkit"
+
+#Music Analysis
 Track Popularity Dynamics: Identify patterns in song characteristics, like tempo, energy, and danceability, and their influence on popularity.
 
 #Platform Comparison
