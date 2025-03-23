@@ -1,10 +1,12 @@
 # General Song Information
 -- 1. What are the top 5 most streamed songs in 2023?
+
 SELECT track_name, streams 
 FROM spotify
 WHERE released_year = 2023
 order by streams desc
 limit 5; 
+"C:\Users\aliha\OneDrive\Documents\Spotify SQL Project\Q 1 GN.csv"
 
 -- 2. How many unique artists contributed to the dataset?
 SELECT Count(DISTINCT artist_name) AS Unique_artist_count
